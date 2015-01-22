@@ -1,0 +1,51 @@
+# L  E  V  E  L  1       S P A C E     I N V A D E R S
+
+#################################
+
+#specify playerShip
+
+playerShip images/spaceShip.obj 10 1 10 10
+
+##################################
+
+#specify fences/ barricades
+
+fence images/barricade.obj 50 100
+fence images/barricade.obj 100 100
+fence images/barricade.obj 150 100
+fence images/barricade.obj 200 100
+
+###################################
+
+#specify enemies
+
+#enemy images/blast.obj 200 500 1 1
+#enemy images/aliens/SIA1Yellow.obj 400 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 550 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 700 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 850 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 1000 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 1130 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 1300 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 1450 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 1600 1000 1 1
+enemy images/aliens/SIA1Yellow.obj 550 900 1 1
+enemy images/aliens/SIA1Yellow.obj 700 900 1 1
+enemy images/aliens/SIA1Yellow.obj 850 900 1 1
+enemy images/aliens/SIA1Yellow.obj 1000 900 1 1
+enemy images/aliens/SIA1Yellow.obj 1130 900 1 1
+enemy images/aliens/SIA1Yellow.obj 1300 900 1 1
+enemy images/aliens/SIA1Yellow.obj 1450 900 1 1
+enemy images/aliens/SIA1Yellow.obj 1600 900 1 1
+enemy images/aliens/SIA1Red.obj 550 800 1 1
+enemy images/aliens/SIA1Red.obj 700 800 1 1
+enemy images/aliens/SIA1Red.obj 850 800 1 1
+enemy images/aliens/SIA1Red.obj 1000 800 1 1
+enemy images/aliens/SIA1Red.obj 1130 800 1 1
+enemy images/aliens/SIA1Red.obj 1300 800 1 1
+enemy images/aliens/SIA1Red.obj 1450 800 1 1
+enemy images/aliens/SIA1Red.obj 1600 800 1 1
+enemy images/aliens/SIA1Red.obj 550 700 1 1
+enemy images/aliens/SIA1Red.obj 700 700 1 1
+enemy images/aliens/SIA1Red.obj 1450 700 1 1
+enemy images/aliens/SIA1Red.obj 1600 700 1 1

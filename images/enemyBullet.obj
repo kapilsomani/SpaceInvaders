@@ -1,0 +1,17 @@
+
+mtllib enemy.mtl
+
+v -2 2 0
+v 2 4 0
+v 2 -4 0
+v -2 -4 0
+
+g bullet
+f 1 2 3
+f 1 3 4
+
+
+newmtl bullet
+Ka 1.0 1.0 0.0
+Kd 1.0 1.0 1.0
+Ks 1.0 1.0 1.0

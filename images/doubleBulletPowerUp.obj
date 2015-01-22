@@ -1,0 +1,16 @@
+#DoubleBullet PowerUp
+
+v 0 0 0
+v 30 0 0
+v 30 30 0
+v 0 30 0
+
+g border
+f 1 2 3
+f 1 3 4
+
+
+newmtl border
+Ka 1.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 1.0 1.0 1.0

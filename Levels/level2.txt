@@ -1,0 +1,140 @@
+# L  E  V  E  L  1       S P A C E     I N V A D E R S
+
+#################################
+
+#specify playerShip
+
+playerShip images/spaceShip.obj 10 1 10 10
+
+##################################
+
+#specify fences/ barricades
+
+fence images/barricade.obj 200 250
+fence images/barricade.obj 220 250
+fence images/barricade.obj 240 250
+fence images/barricade.obj 260 250
+fence images/barricade.obj 280 250
+fence images/barricade.obj 300 250
+fence images/barricade.obj 320 250
+fence images/barricade.obj 340 250
+fence images/barricade.obj 360 250
+fence images/barricade.obj 380 250
+fence images/barricade.obj 400 250
+fence images/barricade.obj 240 270
+fence images/barricade.obj 260 270
+fence images/barricade.obj 280 270
+fence images/barricade.obj 300 270
+fence images/barricade.obj 320 270
+fence images/barricade.obj 340 270
+fence images/barricade.obj 360 270
+fence images/barricade.obj 260 290
+fence images/barricade.obj 280 290
+fence images/barricade.obj 300 290
+fence images/barricade.obj 320 290
+
+fence images/barricade.obj 700 250
+fence images/barricade.obj 720 250
+fence images/barricade.obj 740 250
+fence images/barricade.obj 760 250
+fence images/barricade.obj 780 250
+fence images/barricade.obj 800 250
+fence images/barricade.obj 820 250
+fence images/barricade.obj 840 250
+fence images/barricade.obj 860 250
+fence images/barricade.obj 880 250
+fence images/barricade.obj 900 250
+fence images/barricade.obj 740 270
+fence images/barricade.obj 760 270
+fence images/barricade.obj 780 270
+fence images/barricade.obj 800 270
+fence images/barricade.obj 820 270
+fence images/barricade.obj 840 270
+fence images/barricade.obj 860 270
+fence images/barricade.obj 760 290
+fence images/barricade.obj 780 290
+fence images/barricade.obj 800 290
+fence images/barricade.obj 820 290
+fence images/barricade.obj 840 290
+
+fence images/barricade.obj 1200 250
+fence images/barricade.obj 1220 250
+fence images/barricade.obj 1240 250
+fence images/barricade.obj 1260 250
+fence images/barricade.obj 1280 250
+fence images/barricade.obj 1300 250
+fence images/barricade.obj 1320 250
+fence images/barricade.obj 1340 250
+fence images/barricade.obj 1360 250
+fence images/barricade.obj 1380 250
+fence images/barricade.obj 1400 250
+fence images/barricade.obj 1240 270
+fence images/barricade.obj 1260 270
+fence images/barricade.obj 1280 270
+fence images/barricade.obj 1300 270
+fence images/barricade.obj 1320 270
+fence images/barricade.obj 1340 270
+fence images/barricade.obj 1360 270
+fence images/barricade.obj 1260 290
+fence images/barricade.obj 1280 290
+fence images/barricade.obj 1300 290
+fence images/barricade.obj 1320 290
+fence images/barricade.obj 1340 290
+
+fence images/barricade.obj 1700 250
+fence images/barricade.obj 1720 250
+fence images/barricade.obj 1740 250
+fence images/barricade.obj 1760 250
+fence images/barricade.obj 1780 250
+fence images/barricade.obj 1800 250
+fence images/barricade.obj 1820 250
+fence images/barricade.obj 1840 250
+fence images/barricade.obj 1860 250
+fence images/barricade.obj 1880 250
+fence images/barricade.obj 1900 250
+fence images/barricade.obj 1740 270
+fence images/barricade.obj 1760 270
+fence images/barricade.obj 1780 270
+fence images/barricade.obj 1800 270
+fence images/barricade.obj 1820 270
+fence images/barricade.obj 1840 270
+fence images/barricade.obj 1860 270
+fence images/barricade.obj 1760 290
+fence images/barricade.obj 1780 290
+fence images/barricade.obj 1800 290
+fence images/barricade.obj 1820 290
+fence images/barricade.obj 1840 290
+###################################
+
+#specify enemies
+
+#enemy images/blast.obj 200 500 1 1
+#enemy images/aliens/SIA1Green.obj 400 1000 1 1
+enemy images/aliens/SIA1Green.obj 550 1000 1 1
+enemy images/aliens/SIA1Green.obj 700 1000 1 1
+enemy images/aliens/SIA1Green.obj 850 1000 1 1
+enemy images/aliens/SIA1Green.obj 1000 1000 1 1
+enemy images/aliens/SIA1Green.obj 1130 1000 1 1
+enemy images/aliens/SIA1Green.obj 1300 1000 1 1
+enemy images/aliens/SIA1Green.obj 1450 1000 1 1
+enemy images/aliens/SIA1Green.obj 1600 1000 1 1
+enemy images/aliens/SIA1Green.obj 550 900 1 1
+enemy images/aliens/SIA1Green.obj 700 900 1 1
+enemy images/aliens/SIA1Green.obj 850 900 1 1
+enemy images/aliens/SIA1Green.obj 1000 900 1 1
+enemy images/aliens/SIA1Green.obj 1130 900 1 1
+enemy images/aliens/SIA1Green.obj 1300 900 1 1
+enemy images/aliens/SIA1Green.obj 1450 900 1 1
+enemy images/aliens/SIA1Green.obj 1600 900 1 1
+enemy images/aliens/SIA1Blue.obj 550 800 1 1
+enemy images/aliens/SIA1Blue.obj 700 800 1 1
+enemy images/aliens/SIA1Blue.obj 850 800 1 1
+enemy images/aliens/SIA1Blue.obj 1000 800 1 1
+enemy images/aliens/SIA1Blue.obj 1130 800 1 1
+enemy images/aliens/SIA1Blue.obj 1300 800 1 1
+enemy images/aliens/SIA1Blue.obj 1450 800 1 1
+enemy images/aliens/SIA1Blue.obj 1600 800 1 1
+enemy images/aliens/SIA1Blue.obj 550 700 1 1
+enemy images/aliens/SIA1Blue.obj 700 700 1 1
+enemy images/aliens/SIA1Blue.obj 1450 700 1 1
+enemy images/aliens/SIA1Blue.obj 1600 700 1 1
